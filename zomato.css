@@ -1,0 +1,508 @@
+.box1{
+    height: 15%;
+    background-color: white;
+    /* border: 2px solid red; */
+    display: flex;
+}
+.zomato{
+    height: 20%;
+    width: 8%;
+    margin-left: 8%;
+    margin-top: 2%;
+}
+
+.login{
+    margin-left: 15%;
+    margin-top: 2%;
+    text-align: center; 
+    color: rgba(0, 0, 0, 0.363);  
+}
+.singup{
+    margin-left: 5%;
+    margin-top: 2%;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.363);    
+
+}
+.box2{
+    height:30%;
+    background-color: white;
+    display: flex;
+}
+.del1{
+    height: 100%;
+    width: 25%;
+    /* border: 3px solid red; */
+    background-color:white;
+}
+.txt0{
+    font-size: 20px;
+    color: black;
+    margin-top: 3%;
+    margin-left: 20%;
+}
+.txt0:hover{
+    color: rgba(0, 0, 0, 0.37);
+}
+.bike{
+    height: 15%;
+    width: 8%;
+    margin-top: 4%;
+    margin-left: 35%;
+}
+.dia0{
+    font-size: 20px;
+
+}
+.dia1{
+    font-size: 20px;
+    margin-top: 14%;
+
+}
+
+
+.dia0:hover{
+    color: deeppink;
+}
+.dia1:hover{
+    color: deeppink;
+}
+.but0{
+    height: 20%;
+    width:29% ;
+    margin-top: 10%;
+    margin-left: 10%;
+    background-color: white;
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.247);
+}
+
+.del2{
+    height: 100%;
+    width: 25%;
+    /* border: 3px solid red; */
+}
+.del3{
+    height: 100%;
+    width: 25%;
+    /* border: 3px solid red; */
+}
+.dia2{
+    font-size: 20px;
+    margin-top: 14%;
+    margin-right: 50%;
+
+}
+.dia2:hover{
+    color: deeppink;
+}
+.cup{
+    height: 20%;
+    width: 20%;
+    margin-top: 4%;
+    margin-left: 35%;
+}
+.box3{
+background-color: rgba(214, 182, 151, 0.418);
+height: 50%;
+/* border: 2px solid red; */
+
+}
+.topic{
+    font-size: 35px;
+    margin-top: 1%;
+    margin-left: 7%;
+
+}
+.food{
+    display: flex;
+    height: 50%;
+    width: 20%;
+    margin-left: 6%;
+    margin-top: 5%;
+}
+
+.biriyani{
+    font-size: 25px;
+    margin-left: 4%;
+    
+}
+.piz{
+        margin-left: 20%;
+        border-radius: 50%;
+}
+.piza{
+    font-size: 25px;
+    margin-left: 9%;
+    
+}
+.chi{
+    margin-left: 16%;
+}
+.chic{
+    font-size: 25px;
+    margin-left: 14%;
+    
+}
+.fired{
+    margin-left: 20%;
+    border-radius: 50%;
+    transition: 0.9s;
+}
+.fired:hover{
+    transform: scale(1.5);
+}
+.rice{
+    font-size: 25px;
+    margin-left: 10%;
+
+}
+.bur{
+    margin-left: 20%;
+
+}
+.burger{
+    font-size: 25px;
+    margin-left: 10%;
+
+}
+.dos{
+    margin-left: 20%;
+    border-radius: 50%;
+}
+.dosa{
+    font-size: 25px;
+    margin-left: 10%;
+
+}
+.namefood{
+    display: flex;
+    margin-left:5%;
+}
+.box4{
+    height: 50%;
+    background-color: rgb(246, 246, 252);
+    /* border: 5px solid  green; */
+    
+}
+.topic0{
+    font-size: 35px;
+    margin-top: 1%;
+    margin-left: 7%;
+
+}
+.food0{
+    display: flex;
+    height: 50%;
+    width: 20%;
+    margin-left: 6%;
+    
+}
+.a2b{
+    height: 80%;
+    width: 40%;
+}
+.mc{
+    height: 80%;
+    width: 40%;
+    margin-left:30%;
+    margin-top: 3%;
+}
+.veg{
+    height: 60%;
+    width: 40%;
+    margin-left:30%;
+    margin-top: 8%;
+
+}
+.asb{
+    margin-left: 30%;
+}
+.gee{
+    margin-left: 30%;
+}
+.bug{
+    margin-left: 30%;
+}
+.a2b2{
+    margin-left: 7%;
+    font-size: 18px;
+    }
+.ab{
+    margin-left: 6%;
+    font-size: 18px;
+    }
+.abc{
+    margin-left: 7%;
+    font-size: 18px;
+    }
+.abb{
+    margin-left: 20%;
+    font-size: 18px;
+}
+.acc{
+    margin-left: 15%;
+    font-size: 18px;
+}
+.aaa{
+    margin-left: 15%;
+    font-size: 18px;
+}
+.bbb{
+    margin-left: 10%;
+    font-size: 16px;
+}
+
+.namefd{
+    display: flex;
+    }
+
+.namefd0{
+    display: flex;
+    }
+ .namefd1{
+    display: flex;
+    }
+ .box5{
+    height: 200%;
+    background-color: white;
+    /* border: 5px solid  green; */
+    display: flex;
+ }
+ .dish1{
+    height: 100%;
+    width: 33%;
+    /* border: 2px solid  rgb(223, 37, 37); */
+ }
+ .dish2{
+    height: 100%;
+    width: 33%;
+    /* border: 2px solid  rgb(31, 48, 201); */
+ }
+ .dish3{
+    height: 100%;
+    width: 33%;
+    /* border: 2px solid  rgb(223, 211, 42); */
+ }
+ .topname{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 5%;
+    margin-left: 10%;
+
+ }
+ .dosa0{
+    height: 20%;
+    width: 65%;
+    margin-left: 18%;
+    border-radius: 5%;
+    margin-top: 9%;
+ }
+ .nametxt{
+    font-size: 25px;
+    margin-left: 18%;
+    color: black;
+ }
+ .nametxt0{
+    font-size: 15px;
+    margin-left: 18%;
+    color: rgba(0, 0, 0, 0.459);
+    margin-top: 2%;
+ }
+ .dosa1{
+    height: 20%;
+    width: 65%;
+    margin-left: 18%;
+    border-radius: 5%;
+    margin-top: 19%;
+ }
+ .dosa2{
+    height: 20%;
+    width: 65%;
+    margin-left: 18%;
+    border-radius: 5%;
+    margin-top: 19%;
+ }
+ .box6{
+    height: 70%;
+    background-color: white;
+    /* border: 2px solid  rgb(223, 211, 42); */
+    display: flex;
+    
+ }
+ .div0{
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 25%;
+    margin-left: 5%;
+    
+ }
+ .but1{
+    height: 100%;
+    width: 33%;
+    /* border: 2px solid  rgb(223, 108, 42); */
+ }
+ .tnagar{
+    display: block;
+ }
+ .Adyar{
+    display: block;
+ }
+ .boxx{
+    height: 18%;
+    width: 80%;
+    margin-top: 10%;
+    margin-left: 5%;
+    font-size: 18px;
+    text-align: left;
+    background-color: white;
+    border: 1px solid  rgba(21, 21, 22, 0.233);
+    border-radius: 5px;
+ }
+ .boxx1{
+    height: 18%;
+    width: 80%;
+    margin-top: 10%;
+    margin-left: 5%;
+    font-size: 18px;
+    text-align: center;
+    background-color: white;
+    border: 1px solid  rgba(21, 21, 22, 0.233);
+    border-radius: 5px;
+
+ }
+ .subdiv{
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.37);
+ }
+ .but2{
+    height: 100%;
+    width: 33%;
+    /* border: 2px solid  rgb(42, 223, 66); */
+ }
+ .but3{
+    height: 100%;
+    width: 33%;
+    /* border: 2px solid  rgb(42, 54, 223); */
+ }
+ .box7{
+    height: 70%;
+    /* border: 2px solid  rgb(42, 54, 223); */
+ }
+ .txt11{
+    font-size: 35px;
+    margin-left: 5%;
+    color: rgba(0, 0, 0, 0.89);
+    margin-top: 2%;
+ }
+ .tab1{
+    height: 18%;
+    width: 90%;
+    margin-left: 5%;
+   margin-top: 1%;
+   background-color: white;
+   border: 2px solid  rgba(23, 23, 24, 0.158);
+   border-radius: 5px;
+   font-size: 20px;
+   text-align: left;
+ }
+ .box8{
+    height: 50%;
+    /* border: 2px solid  rgb(42, 54, 223); */
+    display: flex;
+ }
+ .span1{
+    height: 100%;
+    width: 20%;
+    /* border: 2px solid  rgb(42, 54, 223); */
+ }
+ .zoo{
+    height: 6%;
+    width: 35%;
+    margin-left: 8%;
+    margin-top: 3%;
+ }
+ .nametag1{
+    font-size: 18px;
+    color: black;
+    margin-left: 8%;
+    margin-top: 18%;
+ }
+ .nametag{
+    font-size: 18px;
+    color: black;
+    margin-left: 8%;
+    margin-top: 30%;
+ }
+ .details{
+    font-size: 16px;
+    margin-left: 8%;
+    margin-top: 3%;
+    color: rgba(0, 0, 0, 0.425);
+ }
+ .span2{
+    height: 100%;
+    width: 20%;
+    /* border: 2px solid  rgb(48, 223, 42); */
+ }
+ .span3{
+    height: 100%;
+    width: 20%;
+    /* border: 2px solid  rgb(196, 223, 42); */
+ }
+ .nameta{
+    font-size: 18px;
+    color: black;
+    margin-left: 8%;
+    margin-top: 15%;
+ }
+ .span4{
+    height: 100%;
+    width: 20%;
+    /* border: 2px solid  rgb(223, 42, 42); */
+ }
+ .span5{
+    height: 100%;
+    width: 20%;
+    /* border: 2px solid  rgb(42, 196, 223); */
+ }
+ .state{
+    height: 9%;
+    width: 38%;
+    margin-left: 3%;
+    margin-top: 4%;
+    border-radius: 5px;
+ }
+ .nametag0{
+    font-size: 18px;
+    color: black;
+    margin-left: 8%;
+    margin-top: 16%;
+ }
+ .logo{
+    height: 7%;
+    width: 8%;
+    margin-left: 4%;
+    margin-top: 5%;
+ }
+ .logo0{
+    height: 12%;
+    width: 45%;
+    display: block;
+    margin-left: 10%;
+    margin-top: 6%;
+ }
+ .foot{
+    height: 10%;
+    /* border: 2px solid  rgb(42, 196, 223); */
+    width: 80%;
+    margin-left: 10%;
+    border-top: 2px solid rgba(15, 15, 15, 0.404);
+    
+ }
+ .para{
+    text-align: 3px;
+    margin-top: 2%;
+    
+
+ }
